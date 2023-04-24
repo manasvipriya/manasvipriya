@@ -2,7 +2,7 @@
 <!--
 ### Hi there 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=manasvipriya&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=85&margin-h=105&no-bg=true&no-frame=true&theme=nord)
+[trophy](https://github-profile-trophy.vercel.app/?username=manasvipriya&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=85&margin-h=105&no-bg=true&no-frame=true&theme=nord)
 
 
 **manasvipriya/manasvipriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Gmail Badge](https://img.shields.io/badge/-priyamanasvi3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyamanasvi3@gmail.com)](mailto:priyamanasvi3@gmail.com)
+
+
+
 
 ### Tools
 <div align="left">
