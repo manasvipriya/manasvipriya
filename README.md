@@ -1,13 +1,6 @@
 
 ### NAMASTE 🙏
-
-[trophy](https://github-profile-trophy.vercel.app/?username=manasvipriya&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=85&margin-h=105&no-bg=true&no-frame=true&theme=nord)
-
-
-**manasvipriya/manasvipriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Manasvi Priya
 - 😄 Pronouns: She/her
 
 
