@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gmail Badge](https://img.shields.io/badge/-priyamanasvi3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyamanasvi3@gmail.com)](mailto:priyamanasvi3@gmail.com)
-
 
 
 
@@ -39,7 +37,7 @@ Here are some ideas to get you started:
 ### CONTRIBUTIONS
 [![GitHub Streak](https://streak-stats.demolab.com?user=manasvipriya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![RPJ09's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manasvipriya&theme=tokyo-night&area=true&hide_border=true)
+![Manasvi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manasvipriya&theme=tokyo-night&area=true&hide_border=true)
 
 
 
@@ -52,3 +50,13 @@ Here are some ideas to get you started:
 
 ### ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+
+### Contact me
+
+<p align="left">
+  <a href="https://www.instagram.com/__manasvi.p/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/manasvipriya/manasvipriya/db6fd1f77f0d220473dc51a7ac4155a61dfc651e/icons/instagram.svg" alt="Manasvi" height="60" width="45" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/priyamanasvi3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/manasvipriya/manasvipriya/e647111b9aad7836af57b3130ee125554e15f5dc/icons/twitter.svg"  alt="Manasvi" height="60" width="45" /></a> &nbsp;&nbsp;
+
+[![Gmail Badge](https://img.shields.io/badge/-priyamanasvi3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyamanasvi3@gmail.com)](mailto:priyamanasvi3@gmail.com)
+
