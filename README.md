@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manasvipriya&theme=dark)](https://git.io/streak-stats)
 
 ### HACKTOBERFEST 
-
-[![@manasvipriya's Holopin board](https://holopin.me/manasvipriya)](https://holopin.io/@manasvipriya)
+[![An image of @manasvii05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manasvii05)](https://holopin.io/@manasvii05)
 
 
 
