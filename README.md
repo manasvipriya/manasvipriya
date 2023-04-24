@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://www.instagram.com/__manasvi.p/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/manasvipriya/manasvipriya/db6fd1f77f0d220473dc51a7ac4155a61dfc651e/icons/instagram.svg" alt="Manasvi" height="60" width="45" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/priyamanasvi3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/manasvipriya/manasvipriya/e647111b9aad7836af57b3130ee125554e15f5dc/icons/twitter.svg"  alt="Manasvi" height="60" width="45" /></a> &nbsp;&nbsp;
-
+</p>
+  
 [![Gmail Badge](https://img.shields.io/badge/-priyamanasvi3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyamanasvi3@gmail.com)](mailto:priyamanasvi3@gmail.com)
 
