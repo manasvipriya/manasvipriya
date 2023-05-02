@@ -23,6 +23,9 @@
 
 ![Manasvi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manasvipriya&theme=tokyo-night&area=true&hide_border=true)
 
+<a href="https://github.com/manasvipriya">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvipriya&hide=html,css&theme=tokyonight&hide_border=true" />
+</a>
 
 
 
